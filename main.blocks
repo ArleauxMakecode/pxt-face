@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="rguLa{6x(mW@ofuPMk!I" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="-KR9iX_E`G?}Sz7qi15~"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="Ta=g;IXBRL|?8jZa-u=A" x="522" y="-6"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="3z]iWzCnwhIV:BKOe61q"><field name="LEDS">`
+        . . . . . 
+        # . # . . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="J9|.foHZ79*Bz.|BT-LH"><field name="LEDS">`
+        . . . . . 
+        . . # . # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="HXORv)kBX)Y!{?M;ur+K" x="215" y="52"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="qjqN{]?kE5_@)wll=W)+"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_gesture_event" id="]}Jg%a]MS-AT6Gs9}qJ2" x="51" y="284"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="4$5_HU~#(@.j-;.8,a3W"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . # # . . 
+        # # # . . 
+        # # . . .
+        `</field></block></statement></block><block type="device_gesture_event" id="?CwT{M=uI]Y~{e_*lGm2" x="335" y="301"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="}^j6_pEX34K-[f3SeB[*"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # # # # # 
+        # . # . #
+        `</field></block></statement></block></xml>
